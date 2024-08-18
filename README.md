@@ -25,4 +25,4 @@ git clone https://github.com/freedarwuin/Big_Data.git
 
 cd Big_Data
 
-python BigData.py
+python3 BigData.py
